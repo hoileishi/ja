@@ -1,7 +1,7 @@
 {
   "name": "HoileiCards Japanese",
-  "short_name": "日本語",
-  "description": "Приложение для изучения кандзи, хираганы, катаканы",
+  "short_name": "HoileiCards",
+  "description": "Приложение для изучения японского",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
